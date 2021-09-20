@@ -13,7 +13,7 @@ async def start(_, message: Message):
             InlineKeyboardButton("➕ Add To Your Group ➕", url=addbname)
             ],[
             InlineKeyboardButton("💬 Group", url="https://t.me/SHIZUKA_VC_SUPPORT"),
-            InlineKeyboardButton("Commands 🛠", url="https://telegra.ph/Music-Bot-05-07")
+            InlineKeyboardButton("DEV 🥀", url="https://t.me/pratheek06")
             ]]
         ),
         disable_web_page_preview=True
