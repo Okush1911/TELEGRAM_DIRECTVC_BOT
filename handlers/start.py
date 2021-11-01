@@ -12,8 +12,8 @@ async def start(_, message: Message):
             [[
             InlineKeyboardButton("➕ Add To Your Group ➕", url=addbname)
             ],[
-            InlineKeyboardButton("💬 Group", url="https://t.me/SHIZUKA_VC_SUPPORT"),
-            InlineKeyboardButton("DEV 🥀", url="https://t.me/pratheek06")
+            InlineKeyboardButton("💬 Group", url="https://t.me/ZeusxSupport"),
+            InlineKeyboardButton("DEV 🥀", url="https://t.me/akshhhxx")
             ]]
         ),
         disable_web_page_preview=True
@@ -25,7 +25,7 @@ async def gstart(_, message: Message):
         text="**Music Bot Is Online ✅**",
         reply_markup=InlineKeyboardMarkup(
             [[
-            InlineKeyboardButton(text="🎙️ Support Group 🎙️", url="https://t.me/SHIZUKA_VC_SUPPORT")
+            InlineKeyboardButton(text="🎙️ Support Group 🎙️", url="https://t.me/ZeusxSupport")
             ]]
         )
     )
@@ -64,7 +64,7 @@ __× First Add Me To Your Group..
 • `/userbotleave` : __Assistant Leaves From The Group.__""",
         reply_markup=InlineKeyboardMarkup(
               [[
-              InlineKeyboardButton(text="🎙️ Support Group 🎙️", url="https://t.me/SHIZUKA_VC_SUPPORT")
+              InlineKeyboardButton(text="🎙️ Support Group 🎙️", url="https://t.me/ZeusxSupport")
               ]]
           )
       )
